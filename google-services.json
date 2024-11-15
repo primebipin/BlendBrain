@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340545933356",
+    "firebase_url": "https://project-nothing-61350-default-rtdb.firebaseio.com",
+    "project_id": "project-nothing-61350",
+    "storage_bucket": "project-nothing-61350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340545933356:android:f00f829e5acd6782b94189",
+        "android_client_info": {
+          "package_name": "com.saurabhxrt.BlendBrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340545933356-eekfja4oap8mfps44ltdcmg80qq7vkf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34t5fpVNZwmMkGhfsOi8OMcUIn2rByww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340545933356-eekfja4oap8mfps44ltdcmg80qq7vkf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
